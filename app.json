@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "expo-xcode27-uiscene-repro",
-    "slug": "expo-xcode27-uiscene-repro",
+    "name": "expo-xcode27-repro",
+    "slug": "expo-xcode27-repro",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lraverdy.expo-xcode27-repro"
     },
     "android": {
       "adaptiveIcon": {

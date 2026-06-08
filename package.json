@@ -1,5 +1,5 @@
 {
-  "name": "expo-xcode27-uiscene-repro",
+  "name": "expo-xcode27-repro",
   "version": "1.0.0",
   "main": "index.ts",
   "dependencies": {
@@ -14,8 +14,8 @@
   },
   "scripts": {
     "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
     "web": "expo start --web"
   },
   "private": true
